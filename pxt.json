@@ -10,7 +10,8 @@
         "README.md",
         "assets.json",
         "main.py",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "day1.md"
     ],
     "testFiles": [
         "test.ts"
